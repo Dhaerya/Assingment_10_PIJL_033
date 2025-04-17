@@ -3,7 +3,9 @@
 # Java Threads Assignment
 
 Name: Dhaerya More
+
 PRN: 23070126033
+
 DIV: AIML A2
 
 This project demonstrates the usage of Java threads across multiple classes and files.
